@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yahaya-241988
+- 👋 Hi, I’m @Yahaya_1672017
 - 👀 I’m interested in Software Engineering, Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project related to Web development, Data science, Machine Learning or Artificial Intelligence
